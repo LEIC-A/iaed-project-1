@@ -1,10 +1,14 @@
-IAED_Proj1
+iaed-project-1
 ==========
 
-Primeiro Projecto de IAED 2012/2013 (2º Semestre LEIC-A @ IST)
+1st IAED project - 2012/2013 (2nd Semester LEIC-Alameda @ IST)
 
-O enunciado do projecto pode ser encontrado aqui: https://github.com/pasadinhas/IAED_Proj1/blob/master/enunciado.pdf
 
-© Miguel Neves Pasadinhas (miguel.pasadinhas@ist.utl.pt)
+The specification of the problem can be found here (only in Portuguese): https://github.com/pasadinhas/iaed-project-1/blob/master/enunciado.pdf
 
-[ Este projecto tem outros developers: © Carvalho, Carlos ; © Sil, Daniel ]
+
+© Miguel Neves Pasadinhas (https://github.com/pasadinhas/)
+
+© Carlos Carvalho (https://github.com/bukjir/)
+
+© Daniel Sil
