@@ -9,6 +9,6 @@ The specification of the problem can be found here (only in Portuguese): https:/
 
 © Miguel Neves Pasadinhas (https://github.com/pasadinhas/)
 
-© Carlos Carvalho (https://github.com/bukjir/)
+© Carlos Carvalho (https://github.com/carlosalvc/)
 
 © Daniel Sil (https://github.com/DSil/)
